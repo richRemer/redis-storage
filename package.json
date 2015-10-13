@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "dependencies": {
+    "storage-interface": "*"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:richRemer/redis-storage.git"
